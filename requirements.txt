@@ -7,5 +7,5 @@ torch==2.0.1
 pandas==2.0.3
 numpy==1.24.3
 flask==2.3.3
-react==18.2.0
+
 pytest==7.4.0
